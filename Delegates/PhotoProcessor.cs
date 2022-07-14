@@ -1,5 +1,3 @@
-using System;
-
 namespace Delegates
 {
     public class PhotoProcessor

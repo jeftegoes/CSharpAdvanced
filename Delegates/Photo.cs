@@ -9,7 +9,7 @@ namespace Delegates
 
         public void Save()
         {
-            
+
         }
     }
 }
