@@ -1,4 +1,4 @@
-namespace Events
+namespace EventsAndDelegates
 {
     public class Video
     {
